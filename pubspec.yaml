@@ -24,7 +24,15 @@ dependencies:
   flutter:
     sdk: flutter
   chewie: ^0.12.2
+  amazon_cognito_identity_dart:
+  http:
+  
+  amplify_flutter:
+  amplify_auth_cognito:
+  
+  flutter_login: ^2.2.1
   video_player: ^1.0.1
+  shared_preferences: ^2.0.7
 
 
 

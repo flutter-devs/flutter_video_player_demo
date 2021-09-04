@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fluttervideoplayerde-dev-145701-authRole",
+      "UnauthRoleArn": "arn:aws:iam::282941403569:role/amplify-fluttervideoplayerde-dev-145701-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::282941403569:role/amplify-fluttervideoplayerde-dev-145701-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-fluttervideoplayerde-dev-145701-deployment",
+      "UnauthRoleName": "amplify-fluttervideoplayerde-dev-145701-unauthRole",
+      "StackName": "amplify-fluttervideoplayerde-dev-145701",
+      "StackId": "arn:aws:cloudformation:ap-south-1:282941403569:stack/amplify-fluttervideoplayerde-dev-145701/487a6660-0d62-11ec-86fe-06bcc3298bf0",
+      "AmplifyAppId": "d5i7n94vk27tp"
+    },
+    "categories": {
+      "auth": {
+        "fluttervideoplayerde29af53b5": {}
+      }
+    }
+  }
+}
